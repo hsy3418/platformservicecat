@@ -1,6 +1,7 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://examplesite.com/"
+baseURL = "http://hsy3418.github.io/"
+publishdir = "hsy3418.github.io"
 # theme
 theme = "dot"
 # site title
