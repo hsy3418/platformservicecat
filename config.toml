@@ -28,6 +28,11 @@ weight = 3
 name = "docs"
 hasChildren = true
 
+  [[menu.main]]
+  parent = "docs"
+  name = "Installation"
+  url = "installation"
+  weight = 1
 
   [[menu.main]]
   parent = "docs"
